@@ -96,9 +96,9 @@ p.center {
 }
 
 img {
-    padding: 5px;
+    /* padding: 5px;
     width: 400px;
-    height: 400px;
+    height: 400px; */
     filter: sepia(50%);
     filter: drop-shadow(50%);
 }
@@ -108,6 +108,15 @@ p.right {
     margin-right: 10%;
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+p.fig {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
 }
 
 div.fig {
