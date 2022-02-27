@@ -140,3 +140,61 @@ a:visited {
 a:hover {
     color: red
 }
+
+.pagenum {
+    /* uncomment the next line for invisible page numbers */
+    /*  visibility: hidden;  */
+    position: absolute;
+    right: 1%;
+    font-size: x-small;
+    text-align: right;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0ex;
+    text-indent: 0em;
+}
+
+div.footnote p {
+    text-indent: 0em;
+}
+
+.footnotes {
+    border: dotted 1px;
+    padding-bottom: 1em;
+    margin-top: 2em;
+}
+
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: smaller;
+}
+
+.footnote .label {
+    position: absolute;
+    right: 84%;
+    text-align: right;
+}
+
+.fnanchor {
+    vertical-align: baseline;
+    font-size: 80%;
+    position: relative;
+    top: -.4em;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 180%;
+}
+
+td.leftalign {
+    padding-right: 4em;
+    text-align: left;
+    padding-left: 1em;
+}
+
+td.rightalign {
+    text-align: right;
+}
