@@ -14,6 +14,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Modification requirement
 ====================
+- *Note*: Tried to make the good.html look as close to the 3rd image in the oatmeal comic as possible. 
 
 - Added  ```<link rel="stylesheet" href="./stylesheet.css">``` in the head tag.
 - Skinned the existing css, and overrode mostly everything. Namely: adding a sepia filter to images to give an oldish look. Added a paper background to give it an old timey look. Underlined chapter headings. Added sans-serif font to give it an older look.
